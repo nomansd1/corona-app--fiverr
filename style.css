@@ -220,4 +220,9 @@
 .lastest-subh {
     font-size: 21px;
 }
+
+.table2 {
+    overflow-x: auto !important;
+}
+
 }
